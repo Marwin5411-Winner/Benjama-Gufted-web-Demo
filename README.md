@@ -1,6 +1,7 @@
-## Welcome to GitHub Pages
+## Benjamarachanusorn Gifted WebSite Demo
 
-You can use the [editor on GitHub](https://github.com/Marwin5411-Winner/Benjama-Gufted-web-Demo/edit/main/README.md) to maintain and preview the content for your website in Markdown files.
+Made By MarVin
+Template BY MarVin
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
